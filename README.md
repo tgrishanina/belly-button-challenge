@@ -36,4 +36,6 @@ Complete the following steps:
 
 - Append an html tag with that text to the #sample-metadata panel.
 
+- Please see the Github Pages deployment for the final graphs.
+
 
